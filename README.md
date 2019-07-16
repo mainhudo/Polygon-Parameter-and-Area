@@ -1,2 +1,2 @@
 # Polygon Computation
-My own code. It demonstrates object oriented programming in Python using functions and list. 
+My own code, original code. It demonstrates object oriented programming in Python using functions and list. 
